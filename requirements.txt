@@ -1,0 +1,14 @@
+pymongo==3.0.3 --hash=sha256:bb3cde7a2f7fa69d2b08aed2b7601a348529492a871289420caa850a9a02d54b
+requests==2.7.0 --hash=sha256:20f976cdce02a42b69ce80e9e03897a51814b36d448b37288546086ebc473146
+arrow==0.7.0 --hash=sha256:2a5333007af117a05a488b69c9ae15c26c23eefa25f084992b025d387e03a17b
+bottle==0.12.9 --hash=sha256:fe0a24b59385596d02df7ae7845fe7d7135eea73799d03348aeb9f3771500051
+sendgrid==1.6.22 --hash=sha256:e62bb3b6272219f1ab5d55dd0293e8eee199c1184fad109873b3cf7f45b44b2e
+
+# arrow dependency
+python-dateutil==2.4.2 --hash=sha256:2ae63cf475f0bd049b722fac20813d62aedc14957dd5a3bf00d120d2b5404460
+
+# python-dateutil dependency
+six==1.9.0 --hash=sha256:418a93c397a7edab23e5588dbc067ac74a723edb3d541bd4936f79476e7645da
+
+# sendgrid dependency
+smtpapi==0.3.1 --hash=sha256:dcc6f1c3960ff7bb7e8b9dfb0126c9b5456db9d81c44805659ea58dabd600c37

@@ -1,0 +1,41 @@
+#weatherscore {
+    font-size: 8em;
+    line-height: 1.4em;
+}
+
+#lastalert {
+    font-size: 4em;
+    line-height: 1.5em;
+}
+
+#boundingbox {
+    text-align: center;
+    width: 420px;
+    padding-top: 75px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p {
+    line-height: 1.3em;
+    font-size: 1.2em;
+}
+
+#analysis {
+    font-size: 0.9em;
+    color: #222;
+}
+
+a {
+    color: #555;
+    text-decoration: none;
+    border-bottom: 1px dotted #555;
+}
+
+.maintext {
+    color: #222;
+}
+
+body {
+    font-family: Helvetica, sans-serif;
+}
